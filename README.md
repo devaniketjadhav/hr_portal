@@ -10,5 +10,7 @@ The deployed version of this website can be found at https://devaniketjadhav.git
 
 To run the website locally, you need to have nodeJs installed on your machine.
 Simply download the repo and in the terminal at project folder, execute following commands.
+```
 npm i
 npm run dev
+```
