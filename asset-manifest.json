@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hr_portal/static/css/main.d65a19f0.chunk.css",
+    "main.js": "/hr_portal/static/js/main.235f2a4d.chunk.js",
+    "main.js.map": "/hr_portal/static/js/main.235f2a4d.chunk.js.map",
+    "runtime-main.js": "/hr_portal/static/js/runtime-main.34c14eaa.js",
+    "runtime-main.js.map": "/hr_portal/static/js/runtime-main.34c14eaa.js.map",
+    "static/js/2.8d674ad6.chunk.js": "/hr_portal/static/js/2.8d674ad6.chunk.js",
+    "static/js/2.8d674ad6.chunk.js.map": "/hr_portal/static/js/2.8d674ad6.chunk.js.map",
+    "static/js/3.84bc5e43.chunk.js": "/hr_portal/static/js/3.84bc5e43.chunk.js",
+    "static/js/3.84bc5e43.chunk.js.map": "/hr_portal/static/js/3.84bc5e43.chunk.js.map",
+    "index.html": "/hr_portal/index.html",
+    "static/css/main.d65a19f0.chunk.css.map": "/hr_portal/static/css/main.d65a19f0.chunk.css.map",
+    "static/js/2.8d674ad6.chunk.js.LICENSE.txt": "/hr_portal/static/js/2.8d674ad6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34c14eaa.js",
+    "static/js/2.8d674ad6.chunk.js",
+    "static/css/main.d65a19f0.chunk.css",
+    "static/js/main.235f2a4d.chunk.js"
+  ]
+}
