@@ -1,0 +1,51 @@
+.employeeInfo{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 400px;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid rgb(230, 230, 230);
+    border-radius: 5px;
+    margin: 2px 0px;
+    padding: 5px;
+}
+
+.employeeDetails{
+    text-align: left;
+    font-size: 12px;
+    margin-left: 10px;
+}
+
+.todoSubmit{
+    width: 100px;
+    height: 30px;
+    background-color: beige;
+    border-radius: 6px;
+    margin-right: 5px;
+}
+
+.todooverlay{
+    position: absolute;
+    display: none;
+    width: max-content;
+    height: max-content;
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+    background-color: rgb(255, 255, 255);
+    border: 2px solid gray;
+    padding: 5px;
+    border-radius: 5px;
+    z-index: 2;
+    font-size: 12px;
+}
+
+.closeOverlay{
+    width: max-content;
+    height: 20px;
+    margin-left: 10px;
+    float: right;
+    cursor: pointer;
+    font-size: 15px;
+}

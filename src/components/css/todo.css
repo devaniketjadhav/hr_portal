@@ -1,0 +1,11 @@
+.taskName{
+    text-align: left;
+}
+
+.task{
+    margin: 2px;
+}
+
+.task:hover{
+    background-color: rgb(230, 230, 230);
+}

@@ -1,0 +1,34 @@
+.searchbar{
+    width: 250px;
+    height: 24px;
+    margin-right: 1vw;
+}
+
+.searchSubmit, .searchClear{
+    width: 70px;
+    height: 30px;
+    background-color: beige;
+    border-radius: 6px;
+    margin: 0px 2px;
+}
+
+.search{
+    margin-top: 10vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.searchError{
+    margin-top: 10px;
+    display: none;
+    color: red;
+}
+
+.resultContainer{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
+}
